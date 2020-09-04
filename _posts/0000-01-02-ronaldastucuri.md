@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"vive la vida y no dejes que la vida te viva"
 holaa
